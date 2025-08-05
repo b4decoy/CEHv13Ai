@@ -1,0 +1,26 @@
+# Ignore Obsidian workspace files
+.obsidian/
+
+# Ignore JetBrains/IDE folders like `.idea/` if you're using one
+.idea/
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore Linuxes? Assuming typo of “Lucnes” → adjust as needed
+Lucnes/
+
+# Ignore requirement file if generated dynamically (optional)
+require.txt
+
