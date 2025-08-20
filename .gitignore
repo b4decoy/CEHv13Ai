@@ -24,3 +24,5 @@ Lucnes/
 # Ignore requirement file if generated dynamically (optional)
 require.txt
 
+.obsidian/
+.obsidian/
