@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modules/01_reconnaissance/tools.md",
+                "file": "Install-tools/Openvas/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tools"
+              "title": "Docker"
             }
           }
         ]
@@ -168,8 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fad4b7ea3f9afc85",
+  "active": "83af15eb3f16c686",
   "lastOpenFiles": [
+    "Install-tools/Openvas/Installtion.md",
+    "Install-tools/Openvas/Docker.md",
+    "Install-tools/Openvas",
+    "Pasted image 20250820080909.png",
+    "modules/01_reconnaissance/tools.md",
+    "Install-tools",
     "q!",
     "modules/01_reconnaissance/notes.md",
     "extra-stuff/Folder_structure.md",
@@ -188,10 +194,6 @@
     "notes/oscp_vs_ceh.md",
     "notes/attack_matrix.md",
     "notes/cheatsheets/nmap_cheatsheet.md",
-    "modules/01_reconnaissance/examples/whois_enum.sh",
-    "modules/01_reconnaissance/tools.md",
-    "requirements.txt",
-    "LICENSE",
     "ceh13ai/ai/README.md",
     "ceh13ai/labs/walkthroughs/metasploitable2.md",
     "ceh13ai/tools/metasploit/usage.md",
