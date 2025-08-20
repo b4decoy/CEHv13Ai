@@ -14,11 +14,18 @@
             "state": {
               "type": "markdown",
               "state": {
+
+                "file": "Install-tools/Openvas/Docker.md",
+
                 "file": "labs/walkthroughs/metasploitable2.md",
+
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+
+              "title": "Docker"
+
               "title": "metasploitable2"
             }
           }
@@ -39,6 +46,7 @@
               },
               "icon": "lucide-image",
               "title": "Pasted image 20250818135328"
+
             }
           }
         ]
@@ -188,8 +196,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fad4b7ea3f9afc85",
+  "active": "83af15eb3f16c686",
   "lastOpenFiles": [
+
+    "Install-tools/Openvas/Installtion.md",
+    "Install-tools/Openvas/Docker.md",
+    "Install-tools/Openvas",
+    "Pasted image 20250820080909.png",
+    "modules/01_reconnaissance/tools.md",
+    "Install-tools",
+
     "A.md",
     "Attached",
     "Attached/Pasted image 20250818135328.png",
@@ -206,6 +222,7 @@
     "modules/01_Intro_of_hacking/notes.md",
     "modules/01_Intro_of_hacking/tools.md",
     "attachment",
+
     "q!",
     "extra-stuff/Folder_structure.md",
     "README.md",
@@ -218,6 +235,11 @@
     "scripts/portscanner.py",
     "scripts/ssh_brute.py",
     "notes/oscp_vs_ceh.md",
+
+    "notes/attack_matrix.md",
+    "notes/cheatsheets/nmap_cheatsheet.md",
+
+
     "ceh13ai/ai/README.md",
     "ceh13ai/labs/walkthroughs/metasploitable2.md",
     "ceh13ai/tools/metasploit/usage.md",
