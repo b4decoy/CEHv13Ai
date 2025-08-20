@@ -6,39 +6,15 @@
       {
         "id": "ab854b3ced6b74ad",
         "type": "tabs",
-        "dimension": 23.487903225806452,
         "children": [
           {
             "id": "83af15eb3f16c686",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labs/walkthroughs/metasploitable2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "metasploitable2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "40f04cbf409c1417",
-        "type": "tabs",
-        "dimension": 76.51209677419355,
-        "children": [
-          {
-            "id": "ddddc16d2d6b614e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attached/Pasted image 20250818135328.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250818135328"
+              "title": "New tab"
             }
           }
         ]
@@ -188,36 +164,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fad4b7ea3f9afc85",
+  "active": "83af15eb3f16c686",
   "lastOpenFiles": [
-    "A.md",
-    "Attached",
+    "Install-tools/Openvas/Docker.md",
+    "labs/vuln-vms/meta-2.md",
+    "labs/vuln-vms",
     "Attached/Pasted image 20250818135328.png",
-    "modules/02_scanning/2.Hping3.md",
-    "labs/walkthroughs/metasploitable2.md",
-    "modules/03_enumertion/Enumertion.md",
-    "modules/02_scanning/1.Nmap.md",
-    "modules/03_enumertion",
     "Attached/Pasted image 20250818130902.png",
     "Attached/Pasted image 20250818130856.png",
-    "notes/cheatsheets/nmap_cheatsheet.md",
-    "notes/attack_matrix.md",
-    "labs/vuln-vms/meta-2.md",
-    "modules/01_Intro_of_hacking/notes.md",
-    "modules/01_Intro_of_hacking/tools.md",
-    "attachment",
+    "Attached",
+    "Install-tools/Openvas/Installtion.md",
+    "Install-tools/Openvas",
+    "Pasted image 20250820080909.png",
+    "modules/01_reconnaissance/tools.md",
+    "Install-tools",
     "q!",
+    "modules/01_reconnaissance/notes.md",
     "extra-stuff/Folder_structure.md",
     "README.md",
     "extra-stuff",
+    "Untitled.md",
     "ai/gpt_prompts/recon_gpt_prompt.txt",
     "ai/ceh_bot.py",
     "ai/README.md",
+    "labs/walkthroughs/metasploitable2.md",
     "tools/burpsuite/config.json",
     "tools/metasploit/usage.md",
     "scripts/portscanner.py",
-    "scripts/ssh_brute.py",
     "notes/oscp_vs_ceh.md",
+    "notes/attack_matrix.md",
+    "notes/cheatsheets/nmap_cheatsheet.md",
     "ceh13ai/ai/README.md",
     "ceh13ai/labs/walkthroughs/metasploitable2.md",
     "ceh13ai/tools/metasploit/usage.md",
